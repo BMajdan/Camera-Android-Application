@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Album Manager</string>
+    <string name="edytuj_notatke">Edytuj notatke:</string>
+    <string name="zapisz_zmiany">Zapisz zmiany</string>
+    <string name="anuluj">Anuluj</string>
+    <string name="title_activity_gridpreview">gridpreview</string>
+    <string name="tekst">[TEKST]</string>
+</resources>
